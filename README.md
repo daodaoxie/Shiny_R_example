@@ -8,6 +8,4 @@ https://www.rstudio.com/products/rstudio/download/#download
 https://shiny.rstudio.com/articles/shinyapps.html
 
 
-The layout R project is:
-![Uploading image.png…]()
 
